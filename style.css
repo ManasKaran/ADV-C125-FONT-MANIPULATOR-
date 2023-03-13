@@ -1,0 +1,30 @@
+body{
+    background-image: url("test.avif");
+    background-position: center;
+    /* background-size: cover; */
+}
+
+.footer{
+    background-color: gray;
+    color: white;
+    text-align: center;
+    line-height: 2.5;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    font-size: 25px;
+    font-family:cursive;
+}
+
+.heading{
+    margin-top: 6px;
+    box-shadow: 5px 5px 20px black;
+}
+
+canvas{
+    border: 3px solid white;
+    box-shadow: 10px 10px 30px black;
+    background-color: rgb(138, 175, 235);
+    border-radius: 10px;
+
+}
